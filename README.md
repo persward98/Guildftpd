@@ -210,4 +210,4 @@ GuildFTPd is offered as a complete free version, with all features and updates i
 Unlock the power of file sharing today—download GuildFTPd for free and set up your own FTP server easily!
 
 ---
-**Last updated:** 2026-11-01 20:10:11 UTC
+**Last updated:** 2026-11-02 00:13:37 UTC
